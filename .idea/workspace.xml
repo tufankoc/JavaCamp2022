@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f63b7e06-15c2-4ad5-b7a8-88f49657d7f2" name="Changes" comment="1-week" />
+    <list default="true" id="f63b7e06-15c2-4ad5-b7a8-88f49657d7f2" name="Changes" comment="1-week">
+      <change afterPath="$PROJECT_DIR$/src/arrayExm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mukemmelSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sayiMevcutMu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reCapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reCapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/switchExm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchExm.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +36,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -62,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663916729992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2-week">
+      <created>1663919152325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663919152325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-week" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-week" />
+    <MESSAGE value="2-week" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-week" />
   </component>
 </project>
